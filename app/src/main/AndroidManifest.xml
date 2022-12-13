@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.smallacademy.authenticatorapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppThemeBar">
+        <activity
+            android:name="net.smallacademy.authenticatorapp.activity.SignUp"
+            android:exported="true" />
+        <activity
+            android:name="net.smallacademy.authenticatorapp.activity.Strands"
+            android:exported="true" />
+        <activity
+            android:name="net.smallacademy.authenticatorapp.activity.Profile"
+            android:exported="true" />
+        <activity
+            android:name="net.smallacademy.authenticatorapp.activity.EditProfile"
+            android:exported="true" />
+        <activity android:name="net.smallacademy.authenticatorapp.activity.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="net.smallacademy.authenticatorapp.activity.QuizActivity" />
+        <activity android:name="net.smallacademy.authenticatorapp.activity.QuestionsActivity" />
+        <activity android:name="net.smallacademy.authenticatorapp.activity.SetsActivity" />
+        <activity android:name="net.smallacademy.authenticatorapp.activity.CategoryActivity" />
+    </application>
+
+</manifest>

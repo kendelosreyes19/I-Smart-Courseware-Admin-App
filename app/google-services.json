@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "405834043791",
+    "project_id": "i-smart-courseware-231de",
+    "storage_bucket": "i-smart-courseware-231de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405834043791:android:712edc0b4846ab69057bfa",
+        "android_client_info": {
+          "package_name": "net.smallacademy.authenticatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405834043791-g41m3ko5lvkn3isnlhso1vm5apsb0qmj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCmIRYjV-Ml6mbL18yQFBUR6xbNYn4rZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405834043791-g41m3ko5lvkn3isnlhso1vm5apsb0qmj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

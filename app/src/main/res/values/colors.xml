@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7869FF</color>
+    <color name="colorPrimaryDark">#695BE6</color>
+    <color name="colorAccent">#F84A58</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#2B2B2B</color>
+    <color name="gray">#682A2E2B</color>
+
+
+    <color name="greenGrad">#FFF1F1</color>
+    <color name="hint">#989898</color>
+    <color name="cpd">#978DF4</color>
+
+
+</resources>

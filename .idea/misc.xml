@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Kenneth/Desktop/APP NAMIN TO/THESIS NAMIN BACK UP - 3/Admin with signup/app/src/main/res/drawable/button_background.xml" value="0.2890625" />
+        <entry key="..\:/Users/Kenneth/Desktop/APP NAMIN TO/THESIS NAMIN BACK UP - 3/Admin with signup/app/src/main/res/drawable/card_background2.xml" value="0.2890625" />
+        <entry key="..\:/Users/Kenneth/Desktop/APP NAMIN TO/THESIS NAMIN BACK UP - 3/Admin with signup/app/src/main/res/drawable/checkboxedit.xml" value="0.2890625" />
+        <entry key="..\:/Users/Kenneth/Desktop/APP NAMIN TO/THESIS NAMIN BACK UP - 3/Admin with signup/app/src/main/res/drawable/custom_input.xml" value="0.2890625" />
+        <entry key="..\:/Users/Kenneth/Desktop/APP NAMIN TO/THESIS NAMIN BACK UP - 3/Admin with signup/app/src/main/res/drawable/edit_text_background2.xml" value="0.2890625" />
+        <entry key="..\:/Users/Kenneth/Desktop/APP NAMIN TO/THESIS NAMIN BACK UP - 3/Admin with signup/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.2890625" />
+        <entry key="..\:/Users/Kenneth/Desktop/APP NAMIN TO/THESIS NAMIN BACK UP - 3/Admin with signup/app/src/main/res/drawable/profile_email.xml" value="0.2890625" />
+        <entry key="..\:/Users/Kenneth/Desktop/APP NAMIN TO/THESIS NAMIN BACK UP - 3/Admin with signup/app/src/main/res/drawable/profile_person3.xml" value="0.2890625" />
+        <entry key="..\:/Users/Kenneth/Desktop/APP NAMIN TO/THESIS NAMIN BACK UP - 3/Admin with signup/app/src/main/res/font/aclonica.xml" value="0.303125" />
+        <entry key="..\:/Users/Kenneth/Desktop/APP NAMIN TO/THESIS NAMIN BACK UP - 3/Admin with signup/app/src/main/res/layout/activity_category.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Kenneth/Desktop/APP NAMIN TO/THESIS NAMIN BACK UP - 3/Admin with signup/app/src/main/res/layout/activity_edit_profile.xml" value="0.2586050724637681" />
+        <entry key="..\:/Users/Kenneth/Desktop/APP NAMIN TO/THESIS NAMIN BACK UP - 3/Admin with signup/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Kenneth/Desktop/APP NAMIN TO/THESIS NAMIN BACK UP - 3/Admin with signup/app/src/main/res/layout/activity_profile.xml" value="0.2586050724637681" />
+        <entry key="..\:/Users/Kenneth/Desktop/APP NAMIN TO/THESIS NAMIN BACK UP - 3/Admin with signup/app/src/main/res/layout/activity_questions.xml" value="0.25" />
+        <entry key="..\:/Users/Kenneth/Desktop/APP NAMIN TO/THESIS NAMIN BACK UP - 3/Admin with signup/app/src/main/res/layout/activity_quiz.xml" value="0.25" />
+        <entry key="..\:/Users/Kenneth/Desktop/APP NAMIN TO/THESIS NAMIN BACK UP - 3/Admin with signup/app/src/main/res/layout/activity_sets.xml" value="0.33" />
+        <entry key="..\:/Users/Kenneth/Desktop/APP NAMIN TO/THESIS NAMIN BACK UP - 3/Admin with signup/app/src/main/res/layout/activity_sign_up.xml" value="0.33" />
+        <entry key="..\:/Users/Kenneth/Desktop/APP NAMIN TO/THESIS NAMIN BACK UP - 3/Admin with signup/app/src/main/res/layout/add_cat_d.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Kenneth/Desktop/APP NAMIN TO/THESIS NAMIN BACK UP - 3/Admin with signup/app/src/main/res/layout/category_items.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Kenneth/Desktop/APP NAMIN TO/THESIS NAMIN BACK UP - 3/Admin with signup/app/src/main/res/layout/edit_cat_d.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Kenneth/Desktop/APP NAMIN TO/THESIS NAMIN BACK UP - 3/Admin with signup/app/src/main/res/layout/fragment1.xml" value="0.2586050724637681" />
+        <entry key="..\:/Users/Kenneth/Desktop/APP NAMIN TO/THESIS NAMIN BACK UP - 3/Admin with signup/app/src/main/res/layout/loader.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Kenneth/Desktop/APP NAMIN TO/THESIS NAMIN BACK UP - 3/Admin with signup/app/src/main/res/layout/question_items.xml" value="0.25" />
+        <entry key="..\:/Users/Kenneth/Desktop/APP NAMIN TO/THESIS NAMIN BACK UP - 3/Admin with signup/app/src/main/res/layout/set_items.xml" value="0.67" />
+        <entry key="..\:/Users/Kenneth/Desktop/APP NAMIN TO/THESIS NAMIN BACK UP - 3/Admin with signup/app/src/main/res/menu/menu.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Kenneth/Desktop/APP NAMIN TO/THESIS NAMIN BACK UP - 3/Admin with signup/app/src/main/res/menu/menu2.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Kenneth/Desktop/APP NAMIN TO/THESIS NAMIN BACK UP/Admin with signup/app/src/main/res/drawable/bt_uisquare.xml" value="0.2890625" />
+        <entry key="..\:/Users/Kenneth/Desktop/APP NAMIN TO/THESIS NAMIN BACK UP/Admin with signup/app/src/main/res/layout/activity_main.xml" value="0.21240942028985507" />
+        <entry key="..\:/Users/Kenneth/Desktop/CONNECTING/Admin/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Kenneth/Desktop/CONNECTING/Admin/app/src/main/res/layout/activity_questions.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Kenneth/Desktop/CONNECTING/Admin/app/src/main/res/layout/question_items.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Kenneth/Desktop/FOR DEFENSE/(FINAL DEFENSE) Admin App/app/src/main/res/drawable/strandbox.xml" value="0.2890625" />
+        <entry key="..\:/Users/Kenneth/Desktop/FOR DEFENSE/(FINAL DEFENSE) Admin App/app/src/main/res/layout/activity_category.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Kenneth/Desktop/FOR DEFENSE/(FINAL DEFENSE) Admin App/app/src/main/res/layout/activity_edit_profile.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Kenneth/Desktop/FOR DEFENSE/(FINAL DEFENSE) Admin App/app/src/main/res/layout/activity_main.xml" value="0.26268115942028986" />
+        <entry key="..\:/Users/Kenneth/Desktop/FOR DEFENSE/(FINAL DEFENSE) Admin App/app/src/main/res/layout/activity_profile.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Kenneth/Desktop/FOR DEFENSE/(FINAL DEFENSE) Admin App/app/src/main/res/layout/activity_sign_up.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Kenneth/Desktop/FOR DEFENSE/(FINAL DEFENSE) Admin App/app/src/main/res/layout/activity_strands.xml" value="0.2536231884057971" />
+        <entry key="..\:/Users/Kenneth/Desktop/FOR DEFENSE/(FINAL DEFENSE) Admin App/app/src/main/res/layout/elementsstrands.xml" value="0.25" />
+        <entry key="..\:/Users/Kenneth/Desktop/FOR DEFENSE/(FINAL DEFENSE) Admin App/app/src/main/res/menu/menu.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Kenneth/Desktop/Quiz App + Admin App/Admin/app/src/main/res/layout/activity_category.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Kenneth/Desktop/Quiz App + Admin App/Admin/app/src/main/res/layout/activity_main.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Kenneth/Desktop/Quiz App + Admin App/Admin/app/src/main/res/layout/activity_questions.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Kenneth/Desktop/Quiz App + Admin App/Admin/app/src/main/res/layout/activity_quiz.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Kenneth/Desktop/Quiz App + Admin App/Admin/app/src/main/res/layout/activity_sets.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Kenneth/Desktop/Quiz App + Admin App/Admin/app/src/main/res/layout/add_cat_d.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Kenneth/Desktop/Quiz App + Admin App/Admin/app/src/main/res/layout/category_items.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Kenneth/Desktop/Quiz App + Admin App/Admin/app/src/main/res/layout/edit_cat_d.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Kenneth/Desktop/Quiz App + Admin App/Admin/app/src/main/res/layout/loader.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Kenneth/Desktop/Quiz App + Admin App/Admin/app/src/main/res/layout/question_items.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Kenneth/Desktop/Quiz App + Admin App/Admin/app/src/main/res/layout/set_items.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/Kenneth/Desktop/THESIS PROJECT - 4/Admin1/app/src/main/res/drawable/bt_uisquare.xml" value="0.2890625" />
+        <entry key="..\:/Users/Kenneth/Desktop/THESIS PROJECT - 4/Admin1/app/src/main/res/drawable/btn_bg.xml" value="0.2890625" />
+        <entry key="..\:/Users/Kenneth/Desktop/THESIS PROJECT - 4/Admin1/app/src/main/res/drawable/buttonbackground.xml" value="0.2890625" />
+        <entry key="..\:/Users/Kenneth/Desktop/THESIS PROJECT - 4/Admin1/app/src/main/res/layout/activity_category.xml" value="0.24456521739130435" />
+        <entry key="..\:/Users/Kenneth/Desktop/THESIS PROJECT - 4/Admin1/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Kenneth/Desktop/THESIS PROJECT - 4/Admin1/app/src/main/res/layout/activity_questions.xml" value="0.24456521739130435" />
+        <entry key="..\:/Users/Kenneth/Desktop/THESIS PROJECT - 4/Admin1/app/src/main/res/layout/activity_quiz.xml" value="0.24456521739130435" />
+        <entry key="..\:/Users/Kenneth/Desktop/THESIS PROJECT - 4/Admin1/app/src/main/res/layout/activity_sets.xml" value="0.24456521739130435" />
+        <entry key="..\:/Users/Kenneth/Desktop/THESIS PROJECT - 4/Admin1/app/src/main/res/layout/activity_sign_up.xml" value="0.24456521739130435" />
+        <entry key="..\:/Users/Kenneth/Desktop/THESIS PROJECT - 4/Admin1/app/src/main/res/layout/add_cat_d.xml" value="0.24456521739130435" />
+        <entry key="..\:/Users/Kenneth/Desktop/THESIS PROJECT - 4/Admin1/app/src/main/res/layout/category_items.xml" value="0.24456521739130435" />
+        <entry key="..\:/Users/Kenneth/Desktop/THESIS PROJECT - 4/Admin1/app/src/main/res/layout/edit_cat_d.xml" value="0.24456521739130435" />
+        <entry key="..\:/Users/Kenneth/Desktop/THESIS PROJECT - 4/Admin1/app/src/main/res/layout/loader.xml" value="0.24456521739130435" />
+        <entry key="..\:/Users/Kenneth/Desktop/THESIS PROJECT - 4/Admin1/app/src/main/res/layout/set_items.xml" value="0.24456521739130435" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
